@@ -36,6 +36,8 @@ h1{
     border: 2px solid #ffffff;
     margin: 4rem 20rem 0rem 20rem;
     height: 3rem;
+    border-top-left-radius: 0.50rem;
+    border-top-right-radius: 0.50rem;
 }
 
 .task{
@@ -67,7 +69,9 @@ h1{
     margin: 0;
     background-color: #ffffff;
     border: 2px solid #ffffff;
-    margin: 4rem 20rem 0rem 20rem;
-    height: 3rem;
+    margin: 0.20rem 20rem 0rem 20rem;
+    height: 40rem;
+    border-bottom-left-radius: 0.50rem;
+    border-bottom-right-radius: 0.50rem;
 
 }
